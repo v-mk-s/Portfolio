@@ -20,5 +20,5 @@
 
 ## 6. ACHIEVEMENTS AND AWARDS
 #### COMPETITIONS
-1. [Covid Lung CT Image Segmentation Competition](https://github.com/v-mk-s/Competition-Covid-Lung-CT-Image-Segmentation-main) | Detect&Track broken idlers (DL)
-2. [Great Barrier Reef Image Detection Competition](https://github.com/v-mk-s/Competition-Great-Barrier-Reef-Image-Detection-main) | Detect&Track broken idlers (DL)
+1. [Covid Lung CT Image Segmentation Competition](https://github.com/v-mk-s/Competition-Covid-Lung-CT-Image-Segmentation-main) | Segment COVID in the lungs (DL)
+2. [Great Barrier Reef Image Detection Competition](https://github.com/v-mk-s/Competition-Great-Barrier-Reef-Image-Detection-main) | Detect starfishes with YOLOv5 (DL)
