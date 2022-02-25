@@ -12,14 +12,12 @@
 2. [Treasure Island Game](https://github.com/v-mk-s/Treasure-Island-Game) | Play Treasure Island with friends online
 3. [Chatty Bot](https://github.com/v-mk-s/Chatty-Bot-DL) | Talk with chatty bot in Telegram (DL)
 
-## 4. EDUCATION
-1. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc.
-
-## 5. COURSES & Self EDUCATION
+## 4. COURSES & EDUCATION
 1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | Research has been done in NLP, Transformers, RL, etc.
-2. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017
+2. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc.
+3. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017
 
-## 6. ACHIEVEMENTS AND AWARDS
+## 5. ACHIEVEMENTS AND AWARDS
 #### COMPETITIONS
 1. [Covid Lung CT Image Segmentation Competition](https://github.com/v-mk-s/Competition-Covid-Lung-CT-Image-Segmentation-main) | Segment COVID in the lungs (DL)
 2. [Great Barrier Reef Image Detection Competition](https://github.com/v-mk-s/Competition-Great-Barrier-Reef-Image-Detection-main) | Detect starfish with YOLOv5 (DL)
