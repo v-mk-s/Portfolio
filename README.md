@@ -13,9 +13,10 @@
 3. [Chatty Bot](https://github.com/v-mk-s/Chatty-Bot-DL) | Talk with chatty bot in Telegram (DL)
 
 ## 4. COURSES & EDUCATION
-1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | Research has been done in NLP, Transformers, RL, etc.
-2. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc.
+1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | Research has been done in NLP, Transformers, RL, etc. (DL)
+2. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc. (MO)
 3. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017
+4. [C/C++ course](https://github.com/v-mk-s/C-course) | C/C++ was studied at a high level and the Treasure Island graduation project was implemented.
 
 ## 5. ACHIEVEMENTS AND AWARDS
 #### COMPETITIONS
