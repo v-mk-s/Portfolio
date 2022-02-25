@@ -13,10 +13,10 @@
 3. [Chatty Bot](https://github.com/v-mk-s/Chatty-Bot-DL) | Talk with chatty bot in Telegram (DL)
 
 ## 4. EDUCATION
-1. []() | smth
+1. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc.
 
 ## 5. COURSES & Self EDUCATION
-1. []() | smth
+1. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017
 
 ## 6. ACHIEVEMENTS AND AWARDS
 #### COMPETITIONS
