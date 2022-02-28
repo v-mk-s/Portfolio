@@ -18,7 +18,8 @@
 2. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc. (MO)
 3. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017. (Python)
 4. [C/C++ course](https://github.com/v-mk-s/C-course) | C/C++ was studied at a high level and the Treasure Island graduation project was implemented. (C++)
-5. [Advanced Python course](https://github.com/v-mk-s/Advanced-Python-course) | Advanced Python course with homeworks and graduation project. (Python)
+5. [Source code implementation](https://github.com/v-mk-s/C_plus_plus-Schildt-book) | Source code for 'C++ from the Ground Up' by Herbert Schildt (2013). Implemented manually. (C++)
+6. [Advanced Python course](https://github.com/v-mk-s/Advanced-Python-course) | Advanced Python course with homeworks and graduation project. (Python)
 
 ## 5. ACHIEVEMENTS AND AWARDS
 #### COMPETITIONS
