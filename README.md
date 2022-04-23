@@ -6,6 +6,7 @@
 
 ## 2. RESEARCH ACTIVITIES
 1. [ISODATA](https://github.com/v-mk-s/ISODATA) | Comparative analysis of the efficiency of ISODATA method and ML methods. (ML)
+2. [BERT research](https://github.com/v-mk-s/BERT-Covid-LM) | Comparative analysis of the efficiency of BERT LM in public views research. (DL)
 
 ## 3. PROJECTS
 1. [Music Generation](https://github.com/v-mk-s/Music-Generation-ML) | Continue your favourite ringtone. (ML)
