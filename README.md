@@ -17,8 +17,8 @@
 ## 4. COURSES & EDUCATION
 1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | Research has been done in NLP, Transformers, RL, etc. (DL)
 2. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc. (MO)
-3. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017. (Python)
-4. [ML-developer VK course](https://github.com/v-mk-s/ml-developer-technopark) | [in progress] (ML/DL)
+3. [ML-developer VK course](https://github.com/v-mk-s/ml-developer-technopark) | [in progress] (ML/DL)
+4. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017. (Python)
 5. [C/C++ VK course](https://github.com/v-mk-s/C-course) | C/C++ was studied at a high level and the Treasure Island graduation project was implemented. (C++)
 6. [C/C++ BMSTU course](https://github.com/v-mk-s/OOP-C_plus_plus-course) | A class template TVector was created, and vector arithmetic was implemented. (C++)
 7. [Source code implementation](https://github.com/v-mk-s/C_plus_plus-Schildt-book) | Source code for 'C++ from the Ground Up' by Herbert Schildt (2013). Implemented manually. (C++)
