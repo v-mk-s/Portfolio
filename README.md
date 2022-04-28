@@ -9,11 +9,12 @@
 2. [BERT research](https://github.com/v-mk-s/BERT-Covid-LM) | Comparative analysis of the efficiency of BERT LM in public views research. (DL)
 
 ## 3. PROJECTS
-1. [Music Generation](https://github.com/v-mk-s/Music-Generation-ML) | Continue your favourite ringtone. (ML)
-2. [Treasure Island Game](https://github.com/v-mk-s/Treasure-Island-Game) | Play Treasure Island with friends online. (C++)
-3. [Chatty Bot](https://github.com/v-mk-s/Chatty-Bot-DL) | Talk with chatty bot in Telegram. (DL)
-4. [Modern Snake Game](https://github.com/v-mk-s/Advanced-Snake-Game) | Play Snake Game with friends. (C++)
-5. [Invest Bot](https://github.com/v-mk-s/financial-trading) | This bot will show you which financial instruments to invest in. (DL, Transformers)
+1. [Production-ready Breast Cancer ML Classifier](https://github.com/v-mk-s/production_ready_BC_ML) | Classify breast cancer. (ML)
+2. [Music Generation](https://github.com/v-mk-s/Music-Generation-ML) | Continue your favourite ringtone. (ML)
+3. [Treasure Island Game](https://github.com/v-mk-s/Treasure-Island-Game) | Play Treasure Island with friends online. (C++)
+4. [Chatty Bot](https://github.com/v-mk-s/Chatty-Bot-DL) | Talk with chatty bot in Telegram. (DL)
+5. [Modern Snake Game](https://github.com/v-mk-s/Advanced-Snake-Game) | Play Snake Game with friends. (C++)
+6. [Invest Bot](https://github.com/v-mk-s/financial-trading) | This bot will show you which financial instruments to invest in. (DL, Transformers)
 
 ## 4. COURSES & EDUCATION
 1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | Research has been done in NLP, Transformers, RL, etc. (DL)
