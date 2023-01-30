@@ -6,7 +6,7 @@
 
 ## 2. RESEARCH ACTIVITIES
 1. [ISODATA](https://github.com/v-mk-s/ISODATA) | Comparative analysis of the efficiency of ISODATA method and ML methods. (ML) 2021
-2. [BERT Research](https://github.com/v-mk-s/BERT-Covid-LM) | Comparative analysis of the efficiency of BERT LM in public views research. (DL) 2022
+2. [BERT Research](https://github.com/v-mk-s/BERT-Covid-LM) | Comparative analysis of the efficiency of BERT LM in public views research. (DL) 2022-2023
 
 ## 3. PROJECTS
 1. [Production-ready Breast Cancer ML Classifier](https://github.com/v-mk-s/production_ready_BC_ML) | Classify breast cancer. (ML) 2022
@@ -17,7 +17,7 @@
 6. [Invest Bot](https://github.com/v-mk-s/financial-trading) | This bot will show you which financial instruments to invest in. (DL, Transformers) 2021
 
 ## 4. COURSES & EDUCATION
-1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | Research has been done in NLP, Transformers, RL, etc. (DL) 2021-2022
+1. [Tinkoff DL course](https://github.com/v-mk-s/tinkoff-DL-course) | [Diploma](https://github.com/v-mk-s/tinkoff-DL-course/diploma/Melnichuk_Diploma_Tinkoff_DL.pdf) | Research has been done in NLP, Transformers, RL, etc. (DL) 2021-2022
 2. [Optimization Methods course](https://github.com/v-mk-s/optimization-methods) | Methods are considered: SGD, Newton's, RMSProp, etc. (MO) 2021
 3. [ML-developer VK course](https://github.com/v-mk-s/ml-developer-technopark) | [in progress] (ML/DL) 2022-present
 4. [Game Market Analysis](https://github.com/v-mk-s/data-analyst) | Game Market Analysis 1980-2016. Forecast for 2017. (Python) 2021
