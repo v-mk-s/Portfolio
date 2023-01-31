@@ -2,7 +2,7 @@
 📕 Summary of v-mk-s projects.
 
 ## 1. WORK EXPERIENCE
-1. [Automatic Drone Inspection Service (ADIS)](https://github.com/v-mk-s/Automatic-Drone-Inspection-Service-ADIS) | Detect and track broken idlers. (DL) 2020-2022
+1. [Automatic Drone Inspection Service (ADIS)](https://github.com/v-mk-s/Automatic-Drone-Inspection-Service-ADIS) | Detect and track broken idlers. (DL) 2020-2023
 
 ## 2. RESEARCH ACTIVITIES
 1. [ISODATA](https://github.com/v-mk-s/ISODATA) | Comparative analysis of the efficiency of ISODATA method and ML methods. (ML) 2021
